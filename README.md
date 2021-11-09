@@ -1,6 +1,6 @@
-# adonisJS
+# AdonisJS
 Adonis Learning GuideLine
 
-## create project
-creating new project
+### Create Project
+creating new project on AdonisJS
 `npm init adonis-ts-app@latest hello-world`
